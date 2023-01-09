@@ -16,11 +16,6 @@ body {
   background-color: #ae926a;
 }
 
-.navbar .navbar-brand {
-  width: 70px;
-  height: 70px;
-}
-
 .navbar .navbar-brand img {
   margin: auto;
 }
